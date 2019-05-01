@@ -29,6 +29,3 @@ Usage Guide:
 How to create the dummy records: 
 The dummy data can be created based on your schema on: https://mockaroo.com/ 
 This could be a useful case for testing your database and providing enough records to play around with your filters and features.
-
-Remaining Use Case:
-The Date filter is not working as of now. This is because the dummy data consists of Date in the ISO format which is causing issues for filtering. We can convert the date we picked up from the datepicker in our HTML code and convert it to the ISO format but still it's not querying the database as expected. 

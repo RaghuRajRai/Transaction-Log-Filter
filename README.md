@@ -4,7 +4,9 @@ An app to view and filter transactions stored in a Mongo Database using Express.
 | Name  | USN |
 | ------------- | ------------- |
 | Raghu Raj Rai  | 01FE16BCS157  |
-| Content Cell  |   |
+| Nirjar Kulkarni  | 01FE16BCS126 |
+| Nihaal Nandigiri | 01FE16BCS122 |
+| Himanshu GS | 01FE16BCS078 |
 
 Usage Guide:
 
